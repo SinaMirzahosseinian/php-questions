@@ -1,0 +1,1 @@
+- [Late static binding ](http://php.net/manual/en/language.oop5.late-static-bindings.php) -
